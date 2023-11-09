@@ -91,7 +91,6 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "Sources/OpenAI/**/*.swift"
-  spec.public_header_files = "Sources/OpenAI/OpenAI.swift", "Sources/OpenAI/Public/**/*.swift"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
